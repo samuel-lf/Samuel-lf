@@ -1,6 +1,6 @@
 
 <img align="right" height="590em" src="https://raw.githubusercontent.com/gist/samuel-lf/6672998c0967ea5146f2eda918c76115/raw/4f5aedda133e2378c5ec53ff7e8f0972dd09af2e/card_perfil.svg"/>
-<h1 align="left">Olá prazer, Samuel Leonel <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"></h1>
+<h1 align="left">Olá prazer, Samuel Leonel <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px" height="30px"></h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=samuel-lf&color=green" alt="Profile views" /> </p>
 
 - 🔥 Desenvolvedor Front-End
