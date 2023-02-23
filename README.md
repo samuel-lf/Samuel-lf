@@ -5,7 +5,7 @@
 
 - 🔥 Desenvolvedor Front-End
 
-- 🔭 Atualmente eu trabalho na [Avanade](https://www.avanade.com/pt-br)
+- 🔭 Atualmente eu trabalho na [Pottencial](https://www.pottencial.com.br/)
 
 - 👨‍💻 Meu site/portfólio está em [samuel.dev.br](https://www.samuel.dev.br)
 
